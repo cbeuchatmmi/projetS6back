@@ -1,0 +1,19 @@
+{
+    "name": "projets6back",
+    "version": "1.0.0",
+    "description": "bdd projets6",
+    "main": "api.js",
+    "scripts": {
+        "start": "node ./api.js"
+    },
+    "keywords": [],
+    "author": "cbeuchat",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.17.1"
+    },
+    "devDependencies": {},
+    "engines": {
+        "node": ">=14.0.0"
+    }
+}
